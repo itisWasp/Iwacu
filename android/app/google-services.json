@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "48573137465",
+    "firebase_url": "https://iwacu-1054b.firebaseio.com",
+    "project_id": "iwacu-1054b",
+    "storage_bucket": "iwacu-1054b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48573137465:android:dda45c750713a9944e83e8",
+        "android_client_info": {
+          "package_name": "com.example.iwacu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48573137465-a3tph54ehufgjrplk1qfd7g3gb05m2b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iwacu",
+            "certificate_hash": "5a3d993656c8a5364a6064c10f0fa2b6c749d2d6"
+          }
+        },
+        {
+          "client_id": "48573137465-0lr2t2gouebmqfespkg7lmkt962dahl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPe4MUPnuDkY-jk6tdrg3XOFxvC65RB2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48573137465-0lr2t2gouebmqfespkg7lmkt962dahl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
