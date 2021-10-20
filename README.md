@@ -1,6 +1,6 @@
 # Iwacu
 
-This is an online shopping app build in flutter and firebase.
+Iwacu app is written and developed in flutter, dart and uses Firebase as a backend
 
 ## Getting Started
 
